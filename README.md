@@ -29,7 +29,7 @@ Press Win + R, type cmd, and press Enter.
 
 2. Clone the Repository
 
-git clone your-github-link-here
+git clone https://github.com/vishruthavishu297-star/Guess-My-Number.git
 
 3. Open the Project Folder
 
